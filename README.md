@@ -1,1 +1,1 @@
-# terraform-azure-remote
+# {{project_name}}
